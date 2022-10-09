@@ -1,0 +1,17 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^3.1.6",
+    "vite-plugin-vue2": "^2.0.2",
+    "vue-template-compiler": "2.6.14"
+  }
+}
